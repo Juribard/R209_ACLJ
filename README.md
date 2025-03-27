@@ -10,6 +10,9 @@ Les données à exploiter :
 - https://geo.api.gouv.fr/decoupage-administratif/communes
 - https://api.meteo-concept.com/
 
+Documentation:
+- javascript: https://developer.mozilla.org/fr/docs/Web/JavaScript
+
 Les taches à repartirs (hypothetique) :
 - Page html/CSS
 - Travail sur la documentation
