@@ -12,6 +12,7 @@ Les données à exploiter :
 
 Documentation:
 - javascript: https://developer.mozilla.org/fr/docs/Web/JavaScript
+- javascript (tuto): https://www.w3schools.com/js/default.asp
 
 Les taches à repartirs (hypothetique) :
 - Page html/CSS
