@@ -3,6 +3,7 @@ Travail de groupe R209
 Pour Visual Studio code:
 - Code Runner
 - GitHub Pool Request
+Répartition des groupes: https://docs.google.com/spreadsheets/d/1WKhqJ5cwaj37WaV6ltIxp_378kjPr8YT/edit?gid=970585130#gid=970585130
 
 Consigne : https://ecampus.unicaen.fr/pluginfile.php/1601465/mod_resource/content/7/Instant%20Weather%20projet%20de%20groupe.pdf
 Les données à exploiter :
