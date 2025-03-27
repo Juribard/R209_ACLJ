@@ -19,4 +19,6 @@ Organisation du travail de groupe:
 - Julien (Github-admin): 
 - Corentin:
 - Arthur:
+- Lubin:
 
+Note: Chaque membre du groupe a une branche qui lui est attribé; le "Main" sera le dossier du rendu
